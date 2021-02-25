@@ -1,0 +1,102 @@
+commit 0427be71ab72cbe2cceb9492fb547feb9492fb21
+Author: user10 <10@10.com>
+Date:   Thu Sep 10 05:38:17 2020 +0200
+
+    Create Water Class (Water.java)
+
+commit b72cbe271ab72cbe5b69e32c25f72b5873e06ed7
+Author: user10 <10@10.com>
+Date:   Thu Sep 10 10:52:35 2020 +0200
+
+    Add class definitions to Water.java
+
+
+commit 2697ea62d13b7cbe2cceb9492fb1e972eb8bab61
+Author: user10 <10@10.com>
+Date:   Thu Sep 10 10:58:25 2020 +0200
+
+    Add Compare class (Water.java)
+
+
+commit b7cbe2cc5c758ab7b127a4105347d0a65a753c1e
+Author: user10 <10@10.com>
+Date:   Thu Sep 10 11:10:02 2020 +0200
+
+    Add getImage and initialize (Water.java)
+
+
+commit b7cbe2cc5c278b3caa119e86b08f5f61cf4fc386
+Author: user10 <10@10.com>
+Date:   Thu Sep 10 11:03:35 2020 +0200
+
+    Implement clearBoundary, checkBoundary and addPatch (Water.Java)
+
+
+commit b7cbe2cca216379510d61d0bb263d78b3caa1191 
+Author: user10 <10@10.com>
+Date:   Fri Sep 11 11:02:17 2020 +0200
+
+    Add drawWater, step (Water.java)
+
+commit 7cbe2cca216379510d611cceb9492fb1213171d0 
+Author: user10 <10@10.com>
+Date:   Fri Sep 11 11:15:27 2020 +0200
+
+    Implement step water surface and depth pass (Water.java)
+
+commit 7cbe2cca21c8bfc3ad4847866e41dec5970b366e
+Author: user10 <10@10.com>
+Date:   Fri Sep 11 11:20:23 2020 +0200
+
+    Bug fixes for step (Water.java)
+
+
+commit 2697ea62d13b7cbead799078dec689279383ab3a
+Author: user10 <10@10.com>
+Date:   Fri Sep 11 11:22:10 2020 +0200
+
+    Implement run (FlowPanel.java)
+
+
+commit 1cceb949d278b3a119e86b08f5f61cfb284fc386
+Author: user10 <10@10.com>
+Date:   Fri Sep 11 11:41:08 2020 +0200
+
+    Add cyclic barrier (FlowPanel.java)
+
+
+commit eb947ebdfcda73ad486b08f5f61cfb284fc3861b
+Author: user10 <10@10.com>
+Date:   Fri Sep 11 11:52:35 2020 +0200
+
+    Bug fixes for run (FlowPanel.java)
+
+commit 61a7ebd278b3caa119e86b08f5f61cfb284fc512
+Author: user10 <10@10.com>
+Date:   Fri Sep 11 11:59:45 2020 +0200
+
+    Add GUI elements (Flow.java) and actionlisteners
+
+
+commit ad486b08f8b9e86b29e86b08f5f61cfba119e86b
+Author: user10 <10@10.com>
+Date:   Fri Sep 11 12:02:15 2020 +0200
+
+    Add Water class to Terrain.java
+
+
+commit 86b08f5f6caa119e86b08f8f5f61cfba84c3861c
+Author: user10 <10@10.com>
+Date:   Fri Sep 11 12:05:25 2020 +0200
+
+    General Updates 1
+
+
+commit 182d4ce7a2111986b29e86b088b08ff8b08ff812 (HEAD -> master)
+Author: user10 <10@10.com>
+Date:   Fri Sep 11 12:20:45 2020 +0200
+
+    General Updates 2 and bug fixes
+
+
+
